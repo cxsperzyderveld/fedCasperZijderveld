@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Epic Games store  
-  <img src="readme-images/epicgames-home.jpg" width="670px" alt="GameStore">
+  <img src="readme-images/epicgames-fortnite.jpg" width="670px" alt="Fortnite">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Epic Games store - fortnite  
-  <img src="readme-images/epicgames-battlepass.jpg" width="670px" alt="FortniteStore">
+  <img src="readme-images/epicgames-battlepass.jpg" width="670px" alt="Battlepass">
  
 </details>
 
