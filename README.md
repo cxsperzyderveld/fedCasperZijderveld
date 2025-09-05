@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Casper Zijderveld (vervangen door jouw naam)
+  Casper Zijderveld
 
   #### Je startniveau:
-  blauw (kies uit zwart, rood óf blauw)
+  rood
 
   #### Je focus:
   surface plane (kies uit responsive óf surface plane)
@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Epic Games store  
-  <img src="readme-images/epicstore.jpg" width="670px" alt="GameStore">
+  <img src="readme-images/epicgames-home.jpg" width="670px" alt="GameStore">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Epic Games store - fortnite  
-  <img src="readme-images/fortnitestore.jpg" width="670px" alt="FortniteStore">
+  <img src="readme-images/epicgames-battlepass.jpg" width="670px" alt="FortniteStore">
  
 </details>
 
